@@ -3,6 +3,42 @@
 
     <item
         is-multidex="false"
+        jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_b1d0a9769c92e96e2822cda5aa96a82520a7c75d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a1804e05a625bc05b97589bb0b69eb82abd39d9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_728b0e3a35f46ae1a2f38496c9f78a486848d46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\DraggableGridViewPagerTest\draggableGridViewPager\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d134a2104811a963fff11be0d9c0b3bfe56a8b65">
+        <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\DraggableGridViewPagerTest-draggableGridViewPager-unspecified_22104acfa1e566a89e0a7307c32ffaf694c6ecec.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -36,15 +72,6 @@
         revision="24.0.1"
         sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
         <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_f17388fc389cc1bef7781086612e4d56adca95cf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_b1d0a9769c92e96e2822cda5aa96a82520a7c75d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -90,33 +117,6 @@
         revision="24.0.1"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
         <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_41aeeee767676c7f08e47f6e45caeddc87ddbe9e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a1804e05a625bc05b97589bb0b69eb82abd39d9b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_728b0e3a35f46ae1a2f38496c9f78a486848d46e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\exploded-aar\DraggableGridViewPagerTest\draggableGridViewPager\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d134a2104811a963fff11be0d9c0b3bfe56a8b65">
-        <dex dex="D:\github-source\DraggableGridViewPagerTest\draggableGridViewPagerTest\build\intermediates\pre-dexed\debug\DraggableGridViewPagerTest-draggableGridViewPager-unspecified_22104acfa1e566a89e0a7307c32ffaf694c6ecec.jar" />
     </item>
 
 </items>
