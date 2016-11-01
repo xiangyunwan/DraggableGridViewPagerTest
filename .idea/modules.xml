@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DraggableGridViewPagerTest.iml" filepath="$PROJECT_DIR$/DraggableGridViewPagerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draggableGridViewPager/draggableGridViewPager.iml" filepath="$PROJECT_DIR$/draggableGridViewPager/draggableGridViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draggableGridViewPagerTest/draggableGridViewPagerTest.iml" filepath="$PROJECT_DIR$/draggableGridViewPagerTest/draggableGridViewPagerTest.iml" />
+    </modules>
+  </component>
+</project>
